@@ -1,76 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Diamond -->
-
   <Diamond.label>алмаз</Diamond.label>
   <Diamond.description>Невероятно твёрдый, прозрачный драгоценный камень. Из-за своей красоты и редкости считается очень роскошным.</Diamond.description>
-
-
   <!-- Amethyst -->
-
   <Amethyst.label>аметист</Amethyst.label>
   <Amethyst.description>Фиолетовый драгоценный камень.  Из-за своей красоты и редкости считается очень роскошным.</Amethyst.description>
-
-
   <!-- Turquoise -->
-
   <Turquoise.label>бирюза</Turquoise.label>
   <Turquoise.description>Зелёно-голубой полудрагоценный камень. Из-за своей красоты и редкости считается очень роскошным.</Turquoise.description>
-
-
   <!-- Sapphire -->
-
   <Sapphire.label>сапфир</Sapphire.label>
   <Sapphire.description>Синий драгоценный камень. Из-за своей красоты и редкости считается очень роскошным. Из-за своей красоты и редкости считается очень роскошным.</Sapphire.description>
-
-
   <!-- Emerald -->
-
   <Emerald.label>изумруд</Emerald.label>
   <Emerald.description>Зелёный драгоценный камень. Из-за своей красоты и редкости считается очень роскошным.</Emerald.description>
-
-
   <!-- Lapis Lazuli -->
-
   <LapisLazuli.label>лазурит</LapisLazuli.label>
   <LapisLazuli.description>Тёмно-синий полу-драгоценный камень. Из-за своей красоты и редкости считается очень роскошным.</LapisLazuli.description>
-
-
   <!-- Opal -->
-
   <Opal.label>благородный опал</Opal.label>
   <Opal.description>Переливающийся разными цветами драгоценный камень. Из-за своей красоты и редкости считается очень роскошным.</Opal.description>
-
-
   <!-- Ruby -->
-
   <Ruby.label>рубин</Ruby.label>
   <Ruby.description>Красный драгоценный камень. Из-за своей красоты и редкости считается очень роскошным.</Ruby.description>
-
-
   <!-- Topaz -->
-
   <Topaz.label>топаз</Topaz.label>
   <Topaz.description>Жёлтый драгоценный камень. Из-за своей красоты и редкости считается очень роскошным. Из-за своей красоты и редкости считается очень роскошным.</Topaz.description>
-
-
   <!-- Quartz -->
-
   <Quartz.label>прозрачный розовый кварц</Quartz.label>
   <Quartz.description>Прозрачный бело-розовый драгоценный камень. Из-за своей красоты и редкости считается очень роскошным.</Quartz.description>
-
-
   <!-- Peridot -->
-
   <Peridot.label>хризолит</Peridot.label>
   <Peridot.description>Светло-зелёный драгоценный камень. Из-за своей красоты и редкости считается очень роскошным.</Peridot.description>
-
-
   <!-- Moonstone -->
-
   <Moonstone.label>лунный камень</Moonstone.label>
   <Moonstone.description>Молочно-белый полу-драгоценный камень. Из-за своей красоты и редкости считается очень роскошным.</Moonstone.description>
-
-
 </LanguageData>
