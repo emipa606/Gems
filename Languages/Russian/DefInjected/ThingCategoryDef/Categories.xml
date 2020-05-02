@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+   <ThingCategoryDef>
+        <defName>Gems</defName>
+        <label>Драгоценные камни</label>
+        <parent>ResourcesRaw</parent>
+        <iconPath>Things/Item/Resource/icon</iconPath>
+      </ThingCategoryDef>
+ 
+</Defs>

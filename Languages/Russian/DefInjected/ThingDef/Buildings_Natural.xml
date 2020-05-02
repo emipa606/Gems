@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--================================ Diamond Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableDiamond</defName>
+    <label>алмазная руда</label>
+    <description>Порода, содержащая в себе алмазы.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(184,225,225)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>3000</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Diamond</mineableThing>
+      <mineableYield>1</mineableYield>
+      <mineableScatterCommonality>0.0050</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>1</min>
+        <max>3</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+  <!--================================ Amethyst Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableAmethyst</defName>
+    <label>аметистовая руда</label>
+    <description>Порода, содержащая в себе аметисты.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(148,72,188)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Amethyst</mineableThing>
+      <mineableYield>4</mineableYield>
+      <mineableScatterCommonality>0.065</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>3</min>
+        <max>5</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+   <!--================================ Turquoise Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableTurquoise</defName>
+    <label>бирюзовая руда</label>
+    <description>Порода, содержащая в себе камни бирюзы.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(144,252,249)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Turquoise</mineableThing>
+      <mineableYield>8</mineableYield>
+      <mineableScatterCommonality>0.05</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>3</min>
+        <max>5</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+  <!--================================ Sapphire Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableSapphire</defName>
+    <label>сапфировая руда</label>
+    <description>Порода, содержащая в себе сапфиры.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(37,73,255)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Sapphire</mineableThing>
+      <mineableYield>4</mineableYield>
+      <mineableScatterCommonality>0.065</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>3</min>
+        <max>5</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+  <!--================================ Emerald Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableEmerald</defName>
+    <label>изумрудная руда</label>
+    <description>Порода, содержащая в себе изумруды.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(54,241,205)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Emerald</mineableThing>
+      <mineableYield>4</mineableYield>
+      <mineableScatterCommonality>0.065</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>3</min>
+        <max>5</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+  <!--================================ Lapis Lazuli Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableLapis</defName>
+    <label>лазуритовая руда</label>
+    <description>Порода, содержащая в себе лазурит.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(57,160,237)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>LapisLazuli</mineableThing>
+      <mineableYield>15</mineableYield>
+      <mineableScatterCommonality>0.05</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>5</min>
+        <max>7</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+  <!--================================ Opal Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableOpal</defName>
+    <label>опаловая руда</label>
+    <description>Порода, содержащая в себе благородные опалы.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(17,157,167)</color>
+      <colorTwo>(109,157,197)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Opal</mineableThing>
+      <mineableYield>4</mineableYield>
+      <mineableScatterCommonality>0.065</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>3</min>
+        <max>5</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+  <!--================================ Ruby Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableRuby</defName>
+    <label>рубиновая руда</label>
+    <description>Порода, содержащая в себе рубины.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(221,28,26)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Ruby</mineableThing>
+      <mineableYield>4</mineableYield>
+      <mineableScatterCommonality>0.065</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>3</min>
+        <max>5</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+  <!--================================ Topaz Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableTopaz</defName>
+    <label>топазовая руда</label>
+    <description>Порода, содержащая в себе топазы.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(240,200,8)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Topaz</mineableThing>
+      <mineableYield>4</mineableYield>
+      <mineableScatterCommonality>0.065</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>3</min>
+        <max>5</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+  <!--================================ Quartz Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableQuartz</defName>
+    <label>кварцевая руда</label>
+    <description>Порода, содержащая в себе прозрачный розовый кварц.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(255,219,208)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Quartz</mineableThing>
+      <mineableYield>15</mineableYield>
+      <mineableScatterCommonality>0.065</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>5</min>
+        <max>8</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+   <!--================================ Peridot Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineablePeridot</defName>
+    <label>хризолитовая руда</label>
+    <description>Порода, содержащая в себе хризолит.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(176,255,146)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Peridot</mineableThing>
+      <mineableYield>4</mineableYield>
+      <mineableScatterCommonality>0.065</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>3</min>
+        <max>5</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+  <!--================================ Moonstone Ore ======================================-->
+	
+  <ThingDef ParentName="RockBase">
+    <defName>MineableMoonstone</defName>
+    <label>лунный камень</label>
+    <description>Порода, содержащая в себе лунные камни.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(114,114,114)</color>
+      <colorTwo>(255,242,241)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>2500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Moonstone</mineableThing>
+      <mineableYield>4</mineableYield>
+      <mineableScatterCommonality>0.05</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>3</min>
+        <max>5</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+</Defs> 
