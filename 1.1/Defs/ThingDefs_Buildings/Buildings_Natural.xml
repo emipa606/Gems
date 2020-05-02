@@ -1,8 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<!--================================ Diamond Ore ======================================-->
-	
+  <!--================================ Diamond Ore ======================================-->
   <ThingDef ParentName="RockBase">
     <defName>MineableDiamond</defName>
     <label>diamond ore</label>
@@ -28,9 +26,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
   <!--================================ Amethyst Ore ======================================-->
-	
   <ThingDef ParentName="RockBase">
     <defName>MineableAmethyst</defName>
     <label>amethyst ore</label>
@@ -56,9 +52,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
-   <!--================================ Turquoise Ore ======================================-->
-	
+  <!--================================ Turquoise Ore ======================================-->
   <ThingDef ParentName="RockBase">
     <defName>MineableTurquoise</defName>
     <label>turquoise ore</label>
@@ -84,9 +78,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
   <!--================================ Sapphire Ore ======================================-->
-	
   <ThingDef ParentName="RockBase">
     <defName>MineableSapphire</defName>
     <label>sapphire ore</label>
@@ -112,9 +104,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
   <!--================================ Emerald Ore ======================================-->
-	
   <ThingDef ParentName="RockBase">
     <defName>MineableEmerald</defName>
     <label>emerald ore</label>
@@ -140,9 +130,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
   <!--================================ Lapis Lazuli Ore ======================================-->
-	
   <ThingDef ParentName="RockBase">
     <defName>MineableLapis</defName>
     <label>lapis lazuli ore</label>
@@ -168,9 +156,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
   <!--================================ Opal Ore ======================================-->
-	
   <ThingDef ParentName="RockBase">
     <defName>MineableOpal</defName>
     <label>opal ore</label>
@@ -196,9 +182,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
   <!--================================ Ruby Ore ======================================-->
-	
   <ThingDef ParentName="RockBase">
     <defName>MineableRuby</defName>
     <label>ruby ore</label>
@@ -224,9 +208,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
   <!--================================ Topaz Ore ======================================-->
-	
   <ThingDef ParentName="RockBase">
     <defName>MineableTopaz</defName>
     <label>topaz ore</label>
@@ -252,9 +234,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
   <!--================================ Quartz Ore ======================================-->
-	
   <ThingDef ParentName="RockBase">
     <defName>MineableQuartz</defName>
     <label>quartz ore</label>
@@ -280,9 +260,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
-   <!--================================ Peridot Ore ======================================-->
-	
+  <!--================================ Peridot Ore ======================================-->
   <ThingDef ParentName="RockBase">
     <defName>MineablePeridot</defName>
     <label>peridot ore</label>
@@ -308,9 +286,7 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
   <!--================================ Moonstone Ore ======================================-->
-	
   <ThingDef ParentName="RockBase">
     <defName>MineableMoonstone</defName>
     <label>moonstone ore</label>
@@ -336,5 +312,4 @@
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
-  
-</Defs> 
+</Defs>

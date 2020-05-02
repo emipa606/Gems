@@ -1,8 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <!--=============== Diamond ====================-->
-
   <ThingDef ParentName="ResourceBase">
     <defName>Diamond</defName>
     <label>diamond</label>
@@ -11,7 +9,7 @@
       <texPath>Things/Item/Resource/Diamond</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -50,16 +48,14 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>5.0</WorkToMake>
-				<WorkToBuild>5.0</WorkToBuild>
-				<Beauty>5.0</Beauty>
+        <WorkToBuild>5.0</WorkToBuild>
+        <Beauty>5.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
   </ThingDef>
-
   <!--=============== Amethyst ====================-->
-
   <ThingDef ParentName="ResourceBase">
     <defName>Amethyst</defName>
     <label>amethyst</label>
@@ -68,7 +64,7 @@
       <texPath>Things/Item/Resource/Amethyst</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -106,17 +102,15 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-  
   <!--=============== Turquoise ====================-->
-  
   <ThingDef ParentName="ResourceBase">
     <defName>Turquoise</defName>
     <label>turquoise</label>
@@ -125,7 +119,7 @@
       <texPath>Things/Item/Resource/Turquoise</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -163,17 +157,15 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-  
-   <!--=============== Sapphire ====================-->
-  
+  <!--=============== Sapphire ====================-->
   <ThingDef ParentName="ResourceBase">
     <defName>Sapphire</defName>
     <label>sapphire</label>
@@ -182,7 +174,7 @@
       <texPath>Things/Item/Resource/Sapphire</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -220,17 +212,15 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-  
   <!--=============== Emerald ====================-->
-  
   <ThingDef ParentName="ResourceBase">
     <defName>Emerald</defName>
     <label>emerald</label>
@@ -239,7 +229,7 @@
       <texPath>Things/Item/Resource/Emerald</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -277,17 +267,15 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-  
-   <!--=============== Lapis Lazuli ====================-->
-  
+  <!--=============== Lapis Lazuli ====================-->
   <ThingDef ParentName="ResourceBase">
     <defName>LapisLazuli</defName>
     <label>lapis lazuli</label>
@@ -296,7 +284,7 @@
       <texPath>Things/Item/Resource/LapisLazuli</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -334,17 +322,15 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-  
   <!--=============== Opal ====================-->
-  
   <ThingDef ParentName="ResourceBase">
     <defName>Opal</defName>
     <label>opal</label>
@@ -353,7 +339,7 @@
       <texPath>Things/Item/Resource/Opal</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -391,17 +377,15 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-  
   <!--=============== Ruby ====================-->
-  
   <ThingDef ParentName="ResourceBase">
     <defName>Ruby</defName>
     <label>ruby</label>
@@ -410,7 +394,7 @@
       <texPath>Things/Item/Resource/Ruby</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -448,17 +432,15 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-
-<!--=============== Topaz ====================-->
-  
+  <!--=============== Topaz ====================-->
   <ThingDef ParentName="ResourceBase">
     <defName>Topaz</defName>
     <label>topaz</label>
@@ -467,7 +449,7 @@
       <texPath>Things/Item/Resource/Topaz</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -505,17 +487,15 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-  
   <!--=============== Quartz ====================-->
-  
   <ThingDef ParentName="ResourceBase">
     <defName>Quartz</defName>
     <label>quartz</label>
@@ -524,7 +504,7 @@
       <texPath>Things/Item/Resource/Quartz</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -562,17 +542,15 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-  
   <!--=============== Peridot ====================-->
-  
   <ThingDef ParentName="ResourceBase">
     <defName>Peridot</defName>
     <label>peridot</label>
@@ -581,7 +559,7 @@
       <texPath>Things/Item/Resource/Peridot</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -619,17 +597,15 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-  
   <!--=============== Moonstone ====================-->
-  
   <ThingDef ParentName="ResourceBase">
     <defName>Moonstone</defName>
     <label>moonstone</label>
@@ -638,7 +614,7 @@
       <texPath>Things/Item/Resource/Moonstone</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-		<useHitPoints>false</useHitPoints>
+    <useHitPoints>false</useHitPoints>
     <soundInteract>ChunkRock_Drop</soundInteract>
     <soundDrop>ChunkRock_Drop</soundDrop>
     <statBases>
@@ -676,13 +652,12 @@
       <statFactors>
         <MaxHitPoints>0.5</MaxHitPoints>
         <WorkToMake>3.0</WorkToMake>
-				<WorkToBuild>3.0</WorkToBuild>
-				<Beauty>3.0</Beauty>
+        <WorkToBuild>3.0</WorkToBuild>
+        <Beauty>3.0</Beauty>
         <Flammability>0</Flammability>
         <MeleeWeapon_CooldownMultiplier>1.3</MeleeWeapon_CooldownMultiplier>
       </statFactors>
     </stuffProps>
-      <smeltable>false</smeltable>
+    <smeltable>false</smeltable>
   </ThingDef>
-  
 </Defs>

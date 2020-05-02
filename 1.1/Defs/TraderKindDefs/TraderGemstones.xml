@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <TraderKindDef>
     <defName>GemstoneTrader</defName>
     <label>gemstone trader</label>
@@ -15,7 +14,7 @@
       </li>
       <li Class="StockGenerator_SingleDef">
         <thingDef>Diamond</thingDef>
-				<countRange>
+        <countRange>
           <min>1</min>
           <max>5</max>
         </countRange>
@@ -48,49 +47,49 @@
           <max>30</max>
         </countRange>
       </li>
-	  <li Class="StockGenerator_SingleDef">
+      <li Class="StockGenerator_SingleDef">
         <thingDef>LapisLazuli</thingDef>
         <countRange>
           <min>10</min>
           <max>30</max>
         </countRange>
       </li>
-	  <li Class="StockGenerator_SingleDef">
+      <li Class="StockGenerator_SingleDef">
         <thingDef>Opal</thingDef>
         <countRange>
           <min>15</min>
           <max>40</max>
         </countRange>
       </li>
-	  <li Class="StockGenerator_SingleDef">
+      <li Class="StockGenerator_SingleDef">
         <thingDef>Ruby</thingDef>
         <countRange>
           <min>1</min>
           <max>30</max>
         </countRange>
       </li>
-	  <li Class="StockGenerator_SingleDef">
+      <li Class="StockGenerator_SingleDef">
         <thingDef>Topaz</thingDef>
         <countRange>
           <min>1</min>
           <max>30</max>
         </countRange>
       </li>
-	  <li Class="StockGenerator_SingleDef">
+      <li Class="StockGenerator_SingleDef">
         <thingDef>Quartz</thingDef>
         <countRange>
           <min>15</min>
           <max>30</max>
         </countRange>
       </li>
-	  <li Class="StockGenerator_SingleDef">
+      <li Class="StockGenerator_SingleDef">
         <thingDef>Peridot</thingDef>
         <countRange>
           <min>1</min>
           <max>30</max>
         </countRange>
       </li>
-	  <li Class="StockGenerator_SingleDef">
+      <li Class="StockGenerator_SingleDef">
         <thingDef>Moonstone</thingDef>
         <countRange>
           <min>15</min>
@@ -100,40 +99,39 @@
       <li Class="StockGenerator_BuySingleDef">
         <thingDef>Amethyst</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>Diamond</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>Emerald</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>LapisLazuli</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>Moonstone</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>Opal</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>Peridot</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>Quartz</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>Ruby</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>Sapphire</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>Topaz</thingDef>
       </li>
-	  <li Class="StockGenerator_BuySingleDef">
+      <li Class="StockGenerator_BuySingleDef">
         <thingDef>Turquoise</thingDef>
       </li>
     </stockGenerators>
   </TraderKindDef>
-
 </Defs>
