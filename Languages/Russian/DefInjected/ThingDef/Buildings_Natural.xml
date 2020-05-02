@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Diamond Ore -->
+
+  <MineableDiamond.label>алмазная руда</MineableDiamond.label>
+  <MineableDiamond.description>Порода, содержащая в себе алмазы.</MineableDiamond.description>
+
+
+  <!-- Amethyst Ore -->
+
+  <MineableAmethyst.label>аметистовая руда</MineableAmethyst.label>
+  <MineableAmethyst.description>Порода, содержащая в себе аметисты.</MineableAmethyst.description>
+
+
+  <!-- Turquoise Ore -->
+
+  <MineableTurquoise.label>бирюзовая руда</MineableTurquoise.label>
+  <MineableTurquoise.description>Порода, содержащая в себе камни бирюзы.</MineableTurquoise.description>
+
+
+  <!-- Sapphire Ore -->
+
+  <MineableSapphire.label>сапфировая руда</MineableSapphire.label>
+  <MineableSapphire.description>Порода, содержащая в себе сапфиры.</MineableSapphire.description>
+
+
+  <!-- Emerald Ore -->
+
+  <MineableEmerald.label>изумрудная руда</MineableEmerald.label>
+  <MineableEmerald.description>Порода, содержащая в себе изумруды.</MineableEmerald.description>
+
+
+  <!-- Lapis Lazuli Ore -->
+
+  <MineableLapis.label>лазуритовая руда</MineableLapis.label>
+  <MineableLapis.description>Порода, содержащая в себе лазурит.</MineableLapis.description>
+
+
+  <!-- Opal Ore -->
+
+  <MineableOpal.label>опаловая руда</MineableOpal.label>
+  <MineableOpal.description>Порода, содержащая в себе благородные опалы.</MineableOpal.description>
+
+
+  <!-- Ruby Ore -->
+
+  <MineableRuby.label>рубиновая руда</MineableRuby.label>
+  <MineableRuby.description>Порода, содержащая в себе рубины.</MineableRuby.description>
+
+
+  <!-- Topaz Ore -->
+
+  <MineableTopaz.label>топазовая руда</MineableTopaz.label>
+  <MineableTopaz.description>Порода, содержащая в себе топазы.</MineableTopaz.description>
+
+
+  <!-- Quartz Ore -->
+
+  <MineableQuartz.label>кварцевая руда</MineableQuartz.label>
+  <MineableQuartz.description>Порода, содержащая в себе прозрачный розовый кварц.</MineableQuartz.description>
+
+
+  <!-- Peridot Ore -->
+
+  <MineablePeridot.label>хризолитовая руда</MineablePeridot.label>
+  <MineablePeridot.description>Порода, содержащая в себе хризолит.</MineablePeridot.description>
+
+
+  <!-- Moonstone Ore -->
+
+  <MineableMoonstone.label>руда с лунным камнем</MineableMoonstone.label>
+  <MineableMoonstone.description>Порода, содержащая в себе лунные камни.</MineableMoonstone.description>
+
+
+</LanguageData>
