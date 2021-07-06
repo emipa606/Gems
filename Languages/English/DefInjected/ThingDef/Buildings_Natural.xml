@@ -1,76 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Diamond Ore -->
-
   <MineableDiamond.label>diamond ore</MineableDiamond.label>
   <MineableDiamond.description>Rock containing shards of diamond.</MineableDiamond.description>
-
-
   <!-- Amethyst Ore -->
-
   <MineableAmethyst.label>amethyst ore</MineableAmethyst.label>
   <MineableAmethyst.description>Rock containing shards of amethyst.</MineableAmethyst.description>
-
-
   <!-- Turquoise Ore -->
-
   <MineableTurquoise.label>turquoise ore</MineableTurquoise.label>
   <MineableTurquoise.description>Rock containing shards of turquoise.</MineableTurquoise.description>
-
-
   <!-- Sapphire Ore -->
-
   <MineableSapphire.label>sapphire ore</MineableSapphire.label>
   <MineableSapphire.description>Rock containing shards of sapphire.</MineableSapphire.description>
-
-
   <!-- Emerald Ore -->
-
   <MineableEmerald.label>emerald ore</MineableEmerald.label>
   <MineableEmerald.description>Rock containing shards of emerald.</MineableEmerald.description>
-
-
   <!-- Lapis Lazuli Ore -->
-
   <MineableLapis.label>lapis lazuli ore</MineableLapis.label>
   <MineableLapis.description>Rock containing shards of lapis lazuli.</MineableLapis.description>
-
-
   <!-- Opal Ore -->
-
   <MineableOpal.label>opal ore</MineableOpal.label>
   <MineableOpal.description>Rock containing shards of opal.</MineableOpal.description>
-
-
   <!-- Ruby Ore -->
-
   <MineableRuby.label>ruby ore</MineableRuby.label>
   <MineableRuby.description>Rock containing shards of ruby.</MineableRuby.description>
-
-
   <!-- Topaz Ore -->
-
   <MineableTopaz.label>topaz ore</MineableTopaz.label>
   <MineableTopaz.description>Rock containing shards of topaz.</MineableTopaz.description>
-
-
   <!-- Quartz Ore -->
-
   <MineableQuartz.label>quartz ore</MineableQuartz.label>
   <MineableQuartz.description>Rock containing shards of quartz.</MineableQuartz.description>
-
-
   <!-- Peridot Ore -->
-
   <MineablePeridot.label>peridot ore</MineablePeridot.label>
   <MineablePeridot.description>Rock containing shards of peridot.</MineablePeridot.description>
-
-
   <!-- Moonstone Ore -->
-
   <MineableMoonstone.label>moonstone ore</MineableMoonstone.label>
   <MineableMoonstone.description>Rock containing shards of moonstone.</MineableMoonstone.description>
-
-
 </LanguageData>

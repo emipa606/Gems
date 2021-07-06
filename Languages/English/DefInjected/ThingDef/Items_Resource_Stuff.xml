@@ -1,76 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Diamond -->
-
   <Diamond.label>diamond</Diamond.label>
   <Diamond.description>A extremely hard, clear gem. Because of its beauty and rarity, diamond is considered very luxurious.</Diamond.description>
-
-
   <!-- Amethyst -->
-
   <Amethyst.label>amethyst</Amethyst.label>
   <Amethyst.description>A hard, purple gem. Because of its beauty and rarity, amethyst is considered very luxurious.</Amethyst.description>
-
-
   <!-- Turquoise -->
-
   <Turquoise.label>turquoise</Turquoise.label>
   <Turquoise.description>A hard, blue-green stone. Because of its beauty and rarity, turquoise is considered very luxurious.</Turquoise.description>
-
-
   <!-- Sapphire -->
-
   <Sapphire.label>sapphire</Sapphire.label>
   <Sapphire.description>A hard, blue gem. Because of its beauty and rarity, sapphire is considered very luxurious.</Sapphire.description>
-
-
   <!-- Emerald -->
-
   <Emerald.label>emerald</Emerald.label>
   <Emerald.description>A hard, green gem. Because of its beauty and rarity, emerald is considered very luxurious.</Emerald.description>
-
-
   <!-- Lapis Lazuli -->
-
   <LapisLazuli.label>lapis lazuli</LapisLazuli.label>
   <LapisLazuli.description>A hard, dark blue stone. Because of its beauty and rarity, lapis lazuli is considered very luxurious.</LapisLazuli.description>
-
-
   <!-- Opal -->
-
   <Opal.label>opal</Opal.label>
   <Opal.description>A hard, multicolored stone. Because of its beauty and rarity, opal is considered very luxurious.</Opal.description>
-
-
   <!-- Ruby -->
-
   <Ruby.label>ruby</Ruby.label>
   <Ruby.description>A hard, red gem. Because of its beauty and rarity, ruby is considered very luxurious.</Ruby.description>
-
-
   <!-- Topaz -->
-
   <Topaz.label>topaz</Topaz.label>
   <Topaz.description>A hard, yellow gem. Because of its beauty and rarity, topaz is considered very luxurious.</Topaz.description>
-
-
   <!-- Quartz -->
-
   <Quartz.label>quartz</Quartz.label>
   <Quartz.description>A hard, pink-white gem. Because of its beauty and rarity, quartz is considered very luxurious.</Quartz.description>
-
-
   <!-- Peridot -->
-
   <Peridot.label>peridot</Peridot.label>
   <Peridot.description>A hard, light-green gem. Because of its beauty and rarity, peridot is considered very luxurious.</Peridot.description>
-
-
   <!-- Moonstone -->
-
   <Moonstone.label>moonstone</Moonstone.label>
   <Moonstone.description>A hard, milky-white gem. Because of its beauty and rarity, moonstone is considered very luxurious.</Moonstone.description>
-
-
 </LanguageData>
