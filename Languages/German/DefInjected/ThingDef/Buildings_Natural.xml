@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Diamond Ore -->
+  <MineableDiamond.label>Diamant</MineableDiamond.label>
+  <MineableDiamond.description>Gestein, das Diamant beinhaltet.</MineableDiamond.description>
+  <!-- Amethyst Ore -->
+  <MineableAmethyst.label>Amethyst</MineableAmethyst.label>
+  <MineableAmethyst.description>Gestein, das Amethyst beinhaltet.</MineableAmethyst.description>
+  <!-- Turquoise Ore -->
+  <MineableTurquoise.label>Türkis</MineableTurquoise.label>
+  <MineableTurquoise.description>Gestein, das Türkis beinhaltet.</MineableTurquoise.description>
+  <!-- Sapphire Ore -->
+  <MineableSapphire.label>Saphir</MineableSapphire.label>
+  <MineableSapphire.description>Gestein, das Saphir beinhaltet.</MineableSapphire.description>
+  <!-- Emerald Ore -->
+  <MineableEmerald.label>Smaragd</MineableEmerald.label>
+  <MineableEmerald.description>Gestein, das Smaragd beinhaltet.</MineableEmerald.description>
+  <!-- Lapis Lazuli Ore -->
+  <MineableLapis.label>Lapis Lazuli</MineableLapis.label>
+  <MineableLapis.description>Gestein, das Lapis Lazuli beinhaltet.</MineableLapis.description>
+  <!-- Opal Ore -->
+  <MineableOpal.label>Opal</MineableOpal.label>
+  <MineableOpal.description>Gestein, das Opal beinhaltet.</MineableOpal.description>
+  <!-- Ruby Ore -->
+  <MineableRuby.label>Rubin</MineableRuby.label>
+  <MineableRuby.description>Gestein, das Rubin beinhaltet.</MineableRuby.description>
+  <!-- Topaz Ore -->
+  <MineableTopaz.label>Topaz</MineableTopaz.label>
+  <MineableTopaz.description>Gestein, das Topaz beinhaltet.</MineableTopaz.description>
+  <!-- Quartz Ore -->
+  <MineableQuartz.label>Quarz</MineableQuartz.label>
+  <MineableQuartz.description>Gestein, das Quarz beinhaltet.</MineableQuartz.description>
+  <!-- Peridot Ore -->
+  <MineablePeridot.label>Peridot</MineablePeridot.label>
+  <MineablePeridot.description>Gestein, das Peridot beinhaltet.</MineablePeridot.description>
+  <!-- Moonstone Ore -->
+  <MineableMoonstone.label>Mondstein</MineableMoonstone.label>
+  <MineableMoonstone.description>Gestein, das Mondstein beinhaltet.</MineableMoonstone.description>
+</LanguageData>

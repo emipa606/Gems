@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Diamond -->
+  <Diamond.label>Diamant</Diamond.label>
+  <Diamond.description>Ein extrem harter, klarer Edelstein. Diamanten gelten aufgrund ihrer Schönheit und Seltenheit als sehr luxuriös.</Diamond.description>
+  <!-- Amethyst -->
+  <Amethyst.label>Amethyst</Amethyst.label>
+  <Amethyst.description>Ein harter, violetter Edelstein. Aufgrund seiner Schönheit und Seltenheit gilt Amethyst als sehr luxuriös.</Amethyst.description>
+  <!-- Turquoise -->
+  <Turquoise.label>Türkis</Turquoise.label>
+  <Turquoise.description>Ein harter, blaugrüner Stein. Aufgrund seiner Schönheit und Seltenheit gilt Türkis als sehr luxuriös.</Turquoise.description>
+  <!-- Sapphire -->
+  <Sapphire.label>Saphir</Sapphire.label>
+  <Sapphire.description>Ein harter, blauer Edelstein. Aufgrund seiner Schönheit und Seltenheit gilt Saphir als sehr luxuriös.</Sapphire.description>
+  <!-- Emerald -->
+  <Emerald.label>Smaragd</Emerald.label>
+  <Emerald.description>Ein harter, grüner Edelstein. Aufgrund seiner Schönheit und Seltenheit gilt Smaragd als sehr luxuriös.</Emerald.description>
+  <!-- Lapis Lazuli -->
+  <LapisLazuli.label>Lapis Lazuli</LapisLazuli.label>
+  <LapisLazuli.description>Ein harter, dunkelblauer Stein. Aufgrund seiner Schönheit und Seltenheit gilt Lapislazuli als sehr luxuriös.</LapisLazuli.description>
+  <!-- Opal -->
+  <Opal.label>Opal</Opal.label>
+  <Opal.description>Ein harter, vielfarbiger Stein. Aufgrund seiner Schönheit und Seltenheit gilt Opal als sehr luxuriös.</Opal.description>
+  <!-- Ruby -->
+  <Ruby.label>Rubin</Ruby.label>
+  <Ruby.description>Ein harter, roter Edelstein. Aufgrund seiner Schönheit und Seltenheit gilt Rubin als sehr luxuriös.</Ruby.description>
+  <!-- Topaz -->
+  <Topaz.label>Topaz</Topaz.label>
+  <Topaz.description>Ein harter, gelber Edelstein. Aufgrund seiner Schönheit und Seltenheit gilt Topas als sehr luxuriös.</Topaz.description>
+  <!-- Quartz -->
+  <Quartz.label>Quarz</Quartz.label>
+  <Quartz.description>Ein harter, rosa-weißer Edelstein. Aufgrund seiner Schönheit und Seltenheit gilt Quarz als sehr luxuriös.</Quartz.description>
+  <!-- Peridot -->
+  <Peridot.label>Peridot</Peridot.label>
+  <Peridot.description>Ein harter, hellgrüner Edelstein. Aufgrund seiner Schönheit und Seltenheit gilt Peridot als sehr luxuriös.</Peridot.description>
+  <!-- Moonstone -->
+  <Moonstone.label>Mondstein</Moonstone.label>
+  <Moonstone.description>Ein harter, milchig-weißer Edelstein. Aufgrund seiner Schönheit und Seltenheit gilt Mondstein als sehr luxuriös.</Moonstone.description>
+</LanguageData>
