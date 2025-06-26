@@ -1,5 +1,8 @@
 # Changelog for Gems
 
+1.6.2 - Fixed Peridot deepCommonality
+
+
 1.6.1 - Fixed unique asset bundle filename
 
 

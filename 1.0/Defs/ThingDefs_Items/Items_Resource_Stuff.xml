@@ -575,7 +575,7 @@
     <thingCategories>
       <li>ResourcesRaw</li>
     </thingCategories>
-    <deepCommonality>5.0</deepCommonality>
+    <deepCommonality>0.5</deepCommonality>
     <deepCountPerPortion>10</deepCountPerPortion>
     <deepLumpSizeRange>
       <min>4</min>
