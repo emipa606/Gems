@@ -1,5 +1,8 @@
 # Changelog for Gems
 
+1.6.3 - Fixed wrong author name
+
+
 1.6.2 - Fixed Peridot deepCommonality
 
 
